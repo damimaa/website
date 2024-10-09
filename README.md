@@ -3,7 +3,7 @@ Welcome to the repository that contains the source code of my personal website!
 
 If you are viewing this repository on Codeberg, please note that it's just a mirror and pull requests and issues should go on [the GitHub Repository](https://github.com/damimaa/website)!
 
-This website uses the [Portfolio Theme](https://github.com/vinitshahdeo/portfolio)
+This website uses the [Portfolio Theme](https://github.com/vinitshahdeo/portfolio).
 
 # Welcome to [Astro](https://astro.build)
 
